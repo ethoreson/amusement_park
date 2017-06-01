@@ -1,0 +1,18 @@
+#Ride1, #Ride2, #Ride3 {
+  display: none;
+}
+
+.ridable {
+  background-color: #D7F9C6;
+}
+
+button {
+  margin: 10px;
+}
+
+#block {
+  width: 10px;
+  height: 10px;
+  background-color: #D7F9C6;
+  color: #D7F9C6;
+}
